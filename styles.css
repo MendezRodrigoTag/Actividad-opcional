@@ -1,0 +1,23 @@
+*{
+    width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+}
+header{
+    background-color: red;
+    height: 10vh;
+}
+.blue{
+    background-color: blue;
+    height: 40vh;
+}
+.yellow{
+    background-color: yellow;
+    height: 40vh;
+    border-color: black;
+    border: solid 5px;
+}
+footer{
+    background-color: red;
+    height: 10vh;
+}
